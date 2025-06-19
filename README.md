@@ -8,7 +8,7 @@ I’m an SE with experience in DevOps, IT & cloud infrastructure and SaaS automa
 
 At IBM, I lead demos and POCs for tools like Instana and Turbonomic, helping platform and DevOps teams optimize performance, reduce cloud waste, and streamline CI/CD workflows. Alongside that, I host internal sales enablement sessions and build custom prospecting cadences that improve conversion and client engagement.
 
-I thrive in conversations where technical complexities meet business goals  — and I specialize in translating product features into real-world outcomes for lean, high-impact teams and their leaders.
+I thrive in conversations where technical complexities meet business goals  — and I specialize in translating product features into real-world outcomes for lean, high-impact IT teams and their leaders.
 
 ## 🗂️ What's in this Repo
 
