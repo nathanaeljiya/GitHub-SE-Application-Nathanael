@@ -5,10 +5,10 @@ Hello Shikha! I'm Nathanael, a Sales Engineer with a background in strategy and 
 
 ## What's in this Repo
 
-- [📄 View GitHub Adoption SMB One-Pager](./GitHub%20Adoption%20SMB.pdf) 
+-  [GitHub Adoption SMB](./GitHub_Adoption_SMB.pdf)
 A one-pager sharing some of my thoughts into GitHub's potential approach in the SMB market and the role SEs should play from my experience. SMBs and mid-market companies represent a massive growth. By positioning the platform as an accelerator of developer productivity and security - not just source control - SEs can play a crucial role in the pre-sales process and expanding GitHub's footprint across high-potential accounts.
 
--  `GitHub_SMB_Expansion_Strategy_Guide.pdf`  
+- [GitHub Jiya Insights](./GitHub_Jiya_Insights.pdf)
 A concise 3-slide playbook simulating how I’d engage a client using GitHub Free and Jenkins, mapping their gaps to GitHub Enterprise solutions. This would be identified as an expansion/ upsell opportunity.
 
 ##  Why GitHub?
@@ -29,6 +29,7 @@ Open source is changing the world. GitHub is the platform enabling that transfor
 
 ## Feel free to Reach me At:
 
+- Resume: - [📄 View JIYA CV](./JIYA%20CV%20Git.docx.pdf)
 - Email: nathanaeljiya@gmail.com 
 - Phone Number: 8148628722
 - LinkedIn: [Nathanael Jiya](www.linkedin.com/in/nathanael-jiya-b81a5a158)
