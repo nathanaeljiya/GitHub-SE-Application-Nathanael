@@ -6,7 +6,7 @@ Hello Shikha! I'm Nathanael, a Sales Engineer with a background in strategy and 
 ## Why Me - At a Glance
 I’m a technical seller with experience in IT & cloud infrastructure and automation — having supported clients across industries as they modernize their app delivery and observability stack.
 
-At IBM, I lead demos and POCs for tools like Instana and Turbonomic, helping platform and DevOps teams optimize performance, reduce cloud waste, and streamline CI/CD workflows. Alongside that, I built internal sales enablement sessions and custom prospecting cadences that improved conversion and client engagement.
+At IBM, I lead demos and POCs for tools like Instana and Turbonomic, helping platform and DevOps teams optimize performance, reduce cloud waste, and streamline CI/CD workflows. Alongside that, I host internal sales enablement sessions and build custom prospecting cadences that improve conversion and client engagement.
 
 I thrive in conversations where business goals meet technical complexity — and I specialize in translating product features into real-world outcomes for lean, high-impact teams and their leaders.
 
