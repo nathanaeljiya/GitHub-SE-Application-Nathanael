@@ -4,7 +4,7 @@ Taking this opportunity to introduce myself and showcase how I'd deliver client 
 Hello Shikha! I'm Nathanael, a Sales Engineer with a background in strategy and technical sales, applying for the GitHub Solutions Engineer role. I created this repo to go deeper than a resume - to demonstrate my intent, alignment and excitement for this opportunity at GitHub :).
 
 ## 🙋‍♂️ Why Me - At a Glance
-I’m a technical seller with experience in IT & cloud infrastructure and automation — having supported clients across industries as they modernize their app delivery and observability stack.
+I’m an SE with experience in DevOps, IT & cloud infrastructure and SaaS automation tools  — having supported clients across industries as they modernize their app delivery and observability stack.
 
 At IBM, I lead demos and POCs for tools like Instana and Turbonomic, helping platform and DevOps teams optimize performance, reduce cloud waste, and streamline CI/CD workflows. Alongside that, I host internal sales enablement sessions and build custom prospecting cadences that improve conversion and client engagement.
 
