@@ -5,7 +5,7 @@ Hello Shikha! I'm Nathanael, a Sales Engineer with a background in strategy and 
 
 ## What's in this Repo
 
--  [GitHub Adoption SMB](./GitHub_Adoption_SMB.pdf)
+-  [View GitHub Adoption SMB One-Pager](./GitHub%20Adoption%20SMB.pdf)
 A one-pager sharing some of my thoughts into GitHub's potential approach in the SMB market and the role SEs should play from my experience. SMBs and mid-market companies represent a massive growth. By positioning the platform as an accelerator of developer productivity and security - not just source control - SEs can play a crucial role in the pre-sales process and expanding GitHub's footprint across high-potential accounts.
 
 - [GitHub Jiya Insights](./GitHub_Jiya_Insights.pdf)
