@@ -21,18 +21,22 @@ Open source is changing the world. GitHub is the platform enabling that transfor
 ##  What I Bring
 
 ✅ Strategic mindset - focus on value based selling
+
 ✅ Pre-sales experience across automation, integration, and cloud solutions 
+
 ✅ Strong technical communication + translating business value 
+
 ✅ Executive-level client engagement
+
 ✅ Growth mindset — I learn fast, teach faster, and bring energy to every project
 
 ---
 
 ## Feel free to Reach me At:
 
-- Resume: - [📄 View JIYA CV](./docs/JIYA%20CV%20Git.docx.pdf)
+- Resume: - [View JIYA CV](./docs/JIYA%20CV%20Git.docx.pdf)
 - Email: nathanaeljiya@gmail.com 
 - Phone Number: 8148628722
-- LinkedIn: [Nathanael Jiya](www.linkedin.com/in/nathanael-jiya-b81a5a158)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nathanael-jiya-b81a5a158)
 
 Thanks for your time and consideration !
