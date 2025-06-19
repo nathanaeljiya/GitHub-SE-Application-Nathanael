@@ -25,7 +25,7 @@ Open source is changing the world. GitHub is the platform enabling that transfor
 
 ---
 
-##💡 What I Bring
+## 💡 What I Bring
 
 ✅ Strategic mindset - focus on value based selling
 
